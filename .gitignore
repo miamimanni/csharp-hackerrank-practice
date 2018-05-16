@@ -1,0 +1,5 @@
+*/.vscode
+*/tests/obj
+*/tests/bin
+*/source/obj
+*/source/bin

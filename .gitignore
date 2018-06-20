@@ -1,5 +1,6 @@
 */.vscode
-*/tests/obj
-*/tests/bin
-*/source/obj
-*/source/bin
+[bB]in
+[dD]ebug
+[rR]elease
+[oO]bj
+[pP]ackages
